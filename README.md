@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Javon Skull
+- 👋 Hi, I’m Kongo Shapi Bokanga known as Javon Skull
 - 👀 I’m interested in the Web Applications
 - 🌱 I’m currently learning React Js(MERN)
-- 💞️ I’m looking to collaborate on React
+- 💞️ I’m looking to collaborate on Django, Python and React
 - 📫 How to reach me @javonskull twitter
 
 <!---
