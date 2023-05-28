@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kongo Shapi Bokanga known as Javon Skull
 - 👀 I’m interested in Python Programming and Web Applications
-- 🌱 I’m currently learning React Js, building apps with Python, Django 
-- 💞️ I’m looking to collaborate on Python, Django, Laravel, and React
+- 🌱 I’m currently building apps with Python, Django and Vue Js 
+- 💞️ I’m looking to collaborate on Python, Django, Vue, and React
 - 📫 How to reach me @javonskull twitter
 
 <!---
