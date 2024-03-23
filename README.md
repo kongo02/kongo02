@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kongo Shapi Bokanga known as Javon Skull
+- 👋 Hi, I’m Kongo Bokanga known as Javon Skull
 - 👀 I’m interested in Python Programming and Web Applications
 - 🌱 I’m currently building apps with Python, Django and Vue Js 
 - 💞️ I’m looking to collaborate on Python, Django, Vue, and React
