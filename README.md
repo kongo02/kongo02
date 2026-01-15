@@ -1,4 +1,4 @@
-# Hi there, I'm Kongo Bokanga (aka Javon Skull) 👋
+# Hi there👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong interest in Python programming and web applications. Here's a bit about me:
 
