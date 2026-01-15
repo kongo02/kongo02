@@ -1,25 +1,31 @@
-# Hi there👋
+# Hi there, I'm Javon! 👋 
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in Python programming and web applications. Here's a bit about me:
+I'm a **Full-Stack Developer & Data Analyst**. I bridge the gap between robust software engineering and data-driven insights, specializing in the Python ecosystem to build, analyze, and scale.
 
-- 🌟 **Interests**: Python Programming, Data Ana;yst, Web Applications</br>
-- 💻 **Current Projects**: Building apps with Python, Django, and React</br>
-- 🚀 **Looking to Collaborate**: Python, Django, Vue, and React projects</br>
-- 📫 **Reach Me**: [@javonskull](https://twitter.com/javonskull) on Twitter</br>
+- 📊 **Data Science**: Extracting insights using **Pandas**, **NumPy**, and **Matplotlib**.
+- 🚀 **Web Development**: Building full-stack apps with **Django**, **React**, and **Vue**.
+- 🏗️ **Latest Project**: [Django-React-Ecommerce](https://github.com/kongo02/Django-React-Ecommerce) — Full-featured shop with integrated analytics.
+- 🤝 **Collaboration**: Open to Python-based Data Analysis or Full-Stack Web projects.
 
-I'm always excited to connect with fellow developers and collaborate on interesting projects. Feel free to reach out!
+---
 
+### 🛠️ My Technical Toolbox
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javon-bokanga-19a89a31a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@javonskull) 
+**Data Analysis & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+**Frontend & Design**
+![React](https://img.shields.io/badge/React-202327?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kongo02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongo02&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
-
-<!---
-kongo02/kongo02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/javon-bokanga-19a89a31a/) [![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/javonskull)
