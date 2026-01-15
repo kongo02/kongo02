@@ -19,13 +19,5 @@ I'm a **Full-Stack Developer & Data Analyst**. I bridge the gap between robust s
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kongo02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongo02&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/javon-bokanga-19a89a31a/) [![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/javonskull)
